@@ -14,7 +14,7 @@
 <p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alysson5g" height="30" width="40" /> <a href="https://www.linkedin.com/in/programadoralysson/" target="_blank">Linkedin</a> </br>
 <img align="center" src="https://cdn.jsdelivr.net/npm/font-awesome-svg-icons@0.1.0/svg/envelope.svg" alt="alysson5g" height="30" width="40" /> <a href="mailto: alyssoncesartavares@gmail.com" target="_blank">alyssoncesartavares@gmail.com</a> </br>
-<img align="center" src="https://www.flaticon.com/br/icone-gratis/whatsapp_254409" alt="alysson5g" height="30" width="40" /> <a href="https://api.whatsapp.com/send?phone=5565996333873" target="_blank">+55 (65) 9 9633-3873</a>
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/254/254409.png" alt="alysson5g" height="30" width="40" /> <a href="https://api.whatsapp.com/send?phone=5565996333873" target="_blank">+55 (65) 9 9633-3873</a>
 </p>
 
 
