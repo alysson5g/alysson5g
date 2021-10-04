@@ -1,12 +1,12 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 
-<h3 align="center">Olá&nbsp;👋, Eu sou Matheus Lopes</h3>
+<h3 align="center">Olá&nbsp;👋, Eu sou Alysson Tavares</h3>
 
 ## ✨&nbsp;&nbsp;Sobre
 
-- 🎓&nbsp;&nbsp;Graduado em Analise e Desenvolvimento de Sistemas pela UNIC em 2016, iniciei minha carreira no desenvolvimento a 6 anos e nesse periodo já passei por algumas linguagens, Java(Desktop e Web), PHP e Javascript <3.
-- 🔭&nbsp;&nbsp;Atualmente estou focado no frontend, utilizo algumas bibliotecas/frameworks como ReactJS, React Native e VueJS. Trabalho há dois anos na BR5 Benefícios onde desenvolvo e dou manutenção em alguns sistemas, sites e mobile utilizando as stacks ReactJs, VueJs e React Native.
-- 🎯&nbsp;&nbsp;No começo do ano de 2019, eu iniciei minha jornada como frontend, onde eu estou buscando me tornar especialista. Amo o que faço, gosto de novos desafios e sempre busco me atualizar.
+- Trabalhando com banco de dados a mais de 8 anos, iniciei minha carreira no desenvolvimento a 2 anos tanto no Back-end quando no Front-end <3.
+- 🔭&nbsp;&nbsp;Atualmente estou focado no Back-end, utilizando muito Node.js, Express e Docker. Trabalho há mais de 1 ano na BR5 Sáude onde desenvolvo e dou manutenção em alguns sistemas e sites e mobile utilizando as stacks NodeJs e ReactJs.
+- 🎯&nbsp;&nbsp;Amo o que faço, gosto de novos desafios e sempre busco me atualizar.
 
 
 ## 🌐&nbsp;&nbsp;Contato(s)
