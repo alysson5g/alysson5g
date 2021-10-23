@@ -38,6 +38,6 @@
 
 ## ✔️&nbsp;&nbsp;Resumo Github
 
-<p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=limk10&show_icons=true&locale=en&=true&theme=dark" alt="limk10" /></p>
+<p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=alysson5g&show_icons=true&locale=en&=true&theme=dark" alt="alysson5g" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limk10&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alysson5g&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
