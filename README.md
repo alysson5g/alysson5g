@@ -4,8 +4,9 @@
 
 ## ✨&nbsp;&nbsp;Sobre
 
-- Trabalhando com banco de dados a mais de 8 anos, iniciei minha carreira no desenvolvimento a 1,6 anos tanto no Back-end quanto no Front-end <3.
-- 🔭&nbsp;&nbsp;Atualmente estou focado no Back-end, utilizando muito Node.js, Express e Docker. Trabalho há mais de 1 ano na BR5 Sáude onde desenvolvo e dou manutenção em alguns sistemas e sites e mobile utilizando as stacks NodeJs e ReactJs.
+- Trabalhando com tecnologia a mais de 8 anos, iniciei minha carreira no desenvolvimento a 1,6 anos no Back-end, estudo atualmente também Front-end <3.
+- 🔭&nbsp;&nbsp;Atualmente estou focado no Back-end, utilizando muito Node.js, Express e Docker. 
+- Trabalho atualmente utilizando Oracle Cloud na construção e manutenção de apliação nodeJS
 - 🎯&nbsp;&nbsp;Amo o que faço, gosto de novos desafios e sempre busco me atualizar.
 
 
