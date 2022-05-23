@@ -36,7 +36,6 @@
 - Scrum
 - GIT
 
-
 ## ✔️&nbsp;&nbsp;Resumo Github
 
 <p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=alysson5g&show_icons=true&locale=en&=true&theme=dark" alt="alysson5g" /></p>
