@@ -4,9 +4,8 @@
 
 ## ✨&nbsp;&nbsp;Sobre
 
-- Trabalhando com tecnologia a mais de 8 anos, iniciei minha carreira no desenvolvimento a 1,6 anos no Back-end, estudo atualmente também Front-end <3.
-- 🔭&nbsp;&nbsp;Atualmente estou focado no Back-end, utilizando muito Node.js, Express e Docker. 
-- Trabalho atualmente utilizando Oracle Cloud na construção e manutenção de aplicações nodeJS.
+- Trabalhando com tecnologia a mais de 8 anos, iniciei minha carreira no desenvolvimento a 2 anos no Back-end <3.
+- 🔭&nbsp;&nbsp;Atualmente estou focado no Back-end, utilizando muito Node.js, Express e Docker, testes unitários, Oracle Clould, Google Cloud, SQL, noSQL, Redis, Firebase . 
 - 🎯&nbsp;&nbsp;Amo o que faço, gosto de novos desafios e sempre busco me atualizar.
 
 
