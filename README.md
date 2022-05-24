@@ -24,13 +24,13 @@
 - Express
 - Redis
 - SQL
-- React <3
-- Redux
-- Hooks
-- Styled-Components
+- Firebase
 - Rest
 - Docker
 - CI/CD
+- Google Cloud 
+- Oracle Cloud
+- Jenkins
 - Testes automatizados (Jest e Testing Libary)
 - Scrum
 - GIT
