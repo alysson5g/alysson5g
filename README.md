@@ -5,7 +5,7 @@
 ## ✨&nbsp;&nbsp;Sobre
 
 - Trabalhando com tecnologia a mais de 8 anos, iniciei minha carreira no desenvolvimento a 4 anos no Back-end <3.
-- 🔭&nbsp;&nbsp;Atualmente estou focado em skills fortemente utilizadas dia a dia no Back-end, como Node.js, Express e Docker, testes unitários, Oracle Clould, Google Cloud, SQL, noSQL, Redis e Firebase . 
+- 🔭&nbsp;&nbsp;Atualmente estou focado em skills fortemente utilizadas dia a dia no Back-end, como Node.js, Express, Nest, Mircroservices, Mensageria e Docker, testes unitários, Oracle Clould, Google Cloud, SQL, noSQL, Redis e Firebase . 
 - 🎯&nbsp;&nbsp;Amo o que faço, gosto de novos desafios e sempre busco me atualizar.
 
 
